@@ -2,7 +2,7 @@
 
 Poniżej znajduje się kompletny, modułowy zbiór wiedzy, zorganizowany według mojego autorskiego Modelu Dojrzałości. Każdy poziom to dedykowane repozytorium.
 
-* **[Poziom 0: Fundamenty Filozoficzne i Poznawcze](./link-do-repo-poziom-0)**
+* **[Poziom 0: Fundamenty Filozoficzne i Poznawcze](./Fundamenty_Filozoficzne_i_Poznawcze_Biblioteka_Wiedzy)**
 * **[Poziom 1: Użytkownik, Entuzjasta AI](./link-do-repo-poziom-1)**
 * **[Poziom 2: Prompt Engineer](./link-do-repo-poziom-2)**
 * **[Poziom 3: Meta Prompt Engineer](./link-do-repo-poziom-3)**
